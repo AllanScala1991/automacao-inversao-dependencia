@@ -1,0 +1,7 @@
+{
+    "integrationFolder": "./tests",
+    "fixturesFolder": false,
+    "pluginsFile": false,
+    "screenshotsFolder": "./tests/screenshots",
+    "supportFile": false
+}
